@@ -1,2 +1,0 @@
-# simplenodejs
-Simple nodejs app
